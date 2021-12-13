@@ -1,3 +1,5 @@
+# 下载速度 = 你本机的上传速度
+
 ## ngrok for pierced 原项目-https://github.com/open-dingtalk/pierced   
 
 ### 已知；*.vaiwan.com 使用钉钉的CDN   
