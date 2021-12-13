@@ -13,7 +13,7 @@
 ##### enjoy!!!   
 
 #### 玩法2 - 下载；   
-##### 下载本仓库   
+##### 下载本仓库 https://github.com/nomoneynolife/dingdingdown/tree/master   
 ##### 修改 ~\resources\app\dist\electron\static\data.json 修改 subdomain 二级域名   
 ##### 运行 任意门.exe 添加文件和文件夹   
 ##### enjoy!!!    
